@@ -41,8 +41,16 @@ export const preguntas = [
       category: "Vida estudiantil y eventos sociales",
       questions: [
         {
-          question: "pregunta 5",
-          answer: "respuesta 5",
+          question: "¿Qué clubes o actividades extracurriculares están disponibles en el campus?",
+          answer: "Hay una gran variedad de clubes. Tenemos clubes de deportes como: fútbol, baloncesto, ajedrez y videojuegos; de artes como teatro, canto y danza contemporánea; y clubes de lectura por parte de la biblioteca",
+        },
+        {
+          question: "¿Hay alguna actividad interesante planeada para el fin de semana?",
+          answer: "Por el momento no contamos con actividades para este fin de semana, pero si te interesa conocer próximos eventos, puedes consultar directamente el portal o seguir todas las redes sociales de la Universidad para que estés al tanto de cualquier novedad.",
+        },
+        {
+          question: "¿Cuáles son las opciones de alimentación disponibles en el campus?",
+          answer: "Hay una amplia variedad de alimentos, como pupusas, snacks, desayunos y almuerzos, que varían según el día y el lugar donde vayas.",
         },
       ],
     },
