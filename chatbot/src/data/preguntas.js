@@ -39,8 +39,19 @@ questions: [
       category: "Apoyo y bienestar estudiantil",
       questions: [
         {
-          question: "pregunta 3",
-          answer: "respuesta 3",
+          question: "¿Dónde puedo obtener ayuda si estoy experimentando estrés o problemas emocionales?",
+          answer:
+            "Puedes acudir al Centro de Bienestar Estudiantil, ubicado en el edificio B, segundo piso. También ofrecen atención psicológica gratuita previa cita.",
+        },
+        {
+          question: "¿Cuáles son los recursos disponibles para estudiantes con discapacidades?",
+          answer:
+            "La universidad ofrece servicios de accesibilidad, como rampas, ascensores y materiales adaptados. Contacta al Departamento de Inclusión Estudiantil para más información. Su numero es 0000-0000",
+        },
+        {
+          question: "¿Qué servicios de asesoramiento o tutoría están disponibles para mejorar mi rendimiento académico?",
+          answer:
+            "El Centro de Tutoría Académica ofrece sesiones personalizadas en diversas materias. Puedes inscribirte en su página oficial o visitarlos en el edificio C. De igual manera puedes contactar a tu profesor para que te asigne un tutor.",
         },
       ],
     },
