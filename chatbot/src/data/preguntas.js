@@ -12,12 +12,21 @@ export const preguntas = [
     },
     {
       category: "Recursos y servicios del campus",
-      questions: [
-        {
-          question: "pregunta 2",
-          answer: "respuesta 2",
-        },
-      ],
+questions: [
+  {
+    question: "¿Dónde se encuentran los servicios de biblioteca?",
+    answer: "La biblioteca está ubicada a mano derecha del Edificio  Meza Ayau."
+  },
+  {
+    question: "¿Cuáles son los horarios de atención del comedor universitario?",
+    answer: "El comedor universitario está abierto de lunes a sabado de 7:00 AM a 5:00 PM."
+  },
+  {
+    question: "¿Cómo puedo acceder a la red Wi-Fi del campus?",
+    answer: "Puedes conectarte a la red Wi-Fi utilizando tu carnet de estudiante y la contraseña que utilizas en el portal web."
+  },
+]
+
     },
     {
       category: "Apoyo y bienestar estudiantil",
