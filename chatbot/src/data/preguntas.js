@@ -4,10 +4,17 @@ export const preguntas = [
       category: "Información académica y administrativa",
       questions: [
         {
-          question: "pregunta 1",
-          answer: "respuesta 1",
+          question: "¿Cuál es el calendario académico para este semestre?",
+          answer: "El calendario académico está disponible en la página oficial de la institución: Universidad Don Bosco.",
         },
-       
+        {
+          question: "¿Dónde puedo encontrar mi horario de clases?",
+          answer: "Puedes consultar tu horario de clases en el portal del estudiante.",
+        },
+        {
+          question: "¿Cuándo son los períodos de inscripción para cursos?",
+          answer: "Los períodos de inscripción son del 1 al 15 de cada mes. Consulta el calendario académico para más detalles.",
+        },
       ],
     },
     {
